@@ -1,0 +1,464 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pen's exellencie, or, The secretaries delight ... together with an insertion of sondrie peeces, or examples of all y[e] vsuall hands of England : as also an addition of certaine methodicall observations for writing, making of the pen, holding the pen, &amp;c. / written by Martin Billingsley ... ; the Greeke &amp; Hebrewe with other peeces never yet extant are hereunto by the authour exactlie added.</title>
+            <author>Billingsley, Martin, b. 1591.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1618</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00949</idno>
+            <idno type="STC">STC 3062.3</idno>
+            <idno type="STC">ESTC S123486</idno>
+            <idno type="EEBO-CITATION">44920304</idno>
+            <idno type="OCLC">ocm 44920304</idno>
+            <idno type="VID">173752</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00949)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173752)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2095:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pen's exellencie, or, The secretaries delight ... together with an insertion of sondrie peeces, or examples of all y[e] vsuall hands of England : as also an addition of certaine methodicall observations for writing, making of the pen, holding the pen, &amp;c. / written by Martin Billingsley ... ; the Greeke &amp; Hebrewe with other peeces never yet extant are hereunto by the authour exactlie added.</title>
+                  <author>Billingsley, Martin, b. 1591.</author>
+                  <author>Holle, H.</author>
+               </titleStmt>
+               <extent>[25] p., 21 leaves of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Are to be solde by Io. Sudbur[y &amp;] George Humble in Popeshead [Alley],</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1618?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The Preface to the Reader" dated 1618.</note>
+                  <note>"H. Holle sculp." -- T.p.</note>
+                  <note>Imperfect: faded and stained, with loss of text.</note>
+                  <note>A.Heal. The Engl. writing-masters, p. 131-132.</note>
+                  <note>Place and date suggested by STC (2nd ed.)</note>
+                  <note>Signatures: [A]² B-D⁴.</note>
+                  <note>Plates numbered irregularly 9-28.</note>
+                  <note>Reproduction of original in: Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Penmanship --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="engraved_title_page">
+            <pb facs="tcp:173752:1"/>
+            <p>
+               <figure>
+                  <p>The Pens Excellencie or The Secretaries Delight. Wherein aſwell the abuſes w<hi rend="sup">ch</hi> are offered vnto y<hi rend="sup">e</hi> worthines of y<hi rend="sup">e</hi> Pen, by vnworthie Pen men, are trulie diſcovered: as y<hi rend="sup">e</hi> Dignity of y<hi rend="sup">e</hi> Art it ſelfe by y<hi rend="sup">e</hi> Antiquitie, Excellencie &amp; diversitie thereof, is breifly demonſtrated</p>
+                  <p>Together wih an insertion of sondrie Peeces, or Examples, of all y<hi rend="sup">e</hi> vsuall Hands of England: as also an addition of certaine methodicall observations for Writing, Making of the Pen, Holding the Pen, &amp;c.</p>
+                  <p>Written by Martin Billingſley M<hi rend="sup">r</hi> in y<hi rend="sup">e</hi> Art of Writing</p>
+                  <q>Non satis est benè, aliquid facere, nisi etiam fiat venustè.</q>
+                  <p>The Greeke &amp; Hebrewe with other Peeces never yet extant are hereunto by the Authour exactlie added.</p>
+                  <p>Are to be ſolde by Io: Sudbury &amp; George Humble in Popeshead <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </p>
+                  <byline>W. Holle sculp.</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:173752:2"/>
+         </div>
+         <div type="engraved_dedication">
+            <pb facs="tcp:173752:2"/>
+            <p>
+               <figure>
+                  <head>2</head>
+                  <q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="dedication">
+                              <head>To the most Excellent Prince Charles &amp;c.</head>
+                              <opener>
+                                 <salute>Most Gratious Prince</salute>
+                              </opener>
+                              <p>This humble worke of my hands labour, with my hearts loue, first deuoted to yo<hi rend="sup">r</hi> Highnes Gratious Regard, and nowe (with an Addition) for a publiq good, with yo<hi rend="sup">r</hi> fauourable Patronage, putt forth into the world: Humblie present to yo<hi rend="sup">r</hi> Princely patience, Beseeching the height of all perfection, so to blesse yo<hi rend="sup">r</hi> Highnes in all perfections, as may giue iust cause to y<hi rend="sup">e</hi> vertuous in all Professions, to admire yo<hi rend="sup">r</hi> Excellence, with all loue and seruice: and make my happines, vnder heauen to be a seruaunt to so gratious a Maister.</p>
+                              <closer>
+                                 <signed>Your Highnes, in all humblenes<lb/>Martin Billingsley.</signed>
+                              </closer>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+               </figure>
+            </p>
+            <pb facs="tcp:173752:3"/>
+         </div>
+         <div type="preface_to_the_reader">
+            <pb facs="tcp:173752:3"/>
+            <head>The Preface to the READER.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is an opinion amongst ſome, not ſo erronious as ignorant, That Coppy-Bookes of this nature are of no validitie. What reaſon they can alledge to ſtrengthen ſo fond a conceit, I know not; ſure it is ſome priuate one, they are ſo loath to produce it. For mine owne part, I ſee no reaſon why theſe that are grauen ſhould not bee as profitable to a Learner, as thoſe that are meerely written; ſo they bee exactly performed according to the na<g ref="char:EOLhyphen"/>turall ſtraine of a true Artiſt; each Letter be<g ref="char:EOLhyphen"/>ing cut according to its true proportion, and loſing not the life deliuered in the Example.</p>
+            <pb facs="tcp:173752:4"/>
+            <p> Certaine I am, there is no man liuing can write ſo exactly, but that euen in the writing of ſixe lines, hee himſelfe ſhall bee conſcious to him<g ref="char:EOLhyphen"/>ſelfe of ſome imperfections: which, by directions to the Grauer (being a good Worke-man and carefull) may bee eaſily helped and made perfect for imitation. Howbeit I deny not, but that oftentimes the Grauer may wrong the Writer, if hee bee not very obſeruant in euery touch of a Letter: and the amends which hee may make him in the well cutting of ſome one or two Hands, will not counteruaile the credit which hee ſhall loſe by his ill grauing and vnnaturall miſhaping of ſome few Letters in one very Ex<g ref="char:EOLhyphen"/>ample.</p>
+            <p>For this Booke enſuing, I know there are ſome (through an enuious Curioſitie, rather then a true Iudgement) which will herein finde many in<g ref="char:EOLhyphen"/>firmities: yet let me tell them, it is an eaſier matter to pry into the imper<g ref="char:EOLhyphen"/>fections of another, then it is to amend their owne errours: and hee that findes the greateſt faults, commonly is the vnableſt to amend the leaſt; ſince Art hath no greater enemy then Ignorance. This is my glory, That I haue not plaid the Theefe with any man, (though it were in my power to haue done it,) But <hi>quicquid ſcripſi, ſcripſi:</hi> whatſoeuer I haue written, I haue done it my ſelfe: For I would bee much aſhamed, that any man ſhould thinke, I had beene brought vp in a place of ſuch ſcarcitie, and vnder ſo bad a Maſter, or that there were in mee ſuch a pouerty, that I must needes goe a thieuing for my skill. I thanke God there is nothing in it, which I am not able vpon an
+<pb facs="tcp:173752:4"/> inſtant to better. And therefore if any man list to be contentious, let him be contentious; but let him not wrong him in his doings, who is able to doe bet<g ref="char:EOLhyphen"/>ter then himſelfe: I ſpeake of thoſe that thinke themſelues excellent and paſt compare, who indeed (be their names neuer ſo famous) beare about them but the ſhadow of Art. And howſoeuer the ſpirits of ſuch men are ſo eleuated and rayſed euen beyond themſelues, that they thinke baſely of euery mans doings but their owne; though their conſciences tell them they are but as empty veſſels, which alwayes make the greateſt ſound. It ſhall ſuffice mee, that (I) know what they haue in them, and how farre their skill extendeth; and ſo reſt my ſelfe contented, till Time and Truth (the Tryers of all mens actions) ſhall diſtribute to euery one according to his deſert. In the meane time, as this little Booke hath found gracious acceptation at the hands of him to whom it was firſt pri<g ref="char:EOLhyphen"/>uately intended: So I hope it will haue the approbation of all ſuch as are well diſpoſed, and beare affection to ſo excellent, commendable and neceſſary an Art: aſſuring them, that had I had my right, I ſhould haue giuen them better content, and greater ſatisfaction of the <hi>Penns</hi> perfection: As for Carpers and ouer-curious-ey'd men, I paſſe not, as knowing my ſelfe euery way (in the Art I profeſſe) a Worke-man that needeth not to be aſhamed.</p>
+            <closer>
+               <dateline>
+                  <hi>From my houſe in Buſh-lane neare London-ſtone,</hi> 
+                  <date>Decemb. 22. 1618.</date>
+               </dateline>
+               <signed>M. B.</signed>
+            </closer>
+            <pb facs="tcp:173752:5"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:173752:5"/>
+            <head>The Pens Excellency.</head>
+            <p>
+               <label>Exordium.</label> 
+               <seg rend="decorInit">T</seg>He Profeſſion of the <hi>Pen</hi> at this day being ſo vniuer<g ref="char:EOLhyphen"/>ſall, and the Profeſſors themſelues for the moſt part ſo ignorant, and inſufficient to vndertake ſo worthy a function; together with the deſire I haue (according to my ſmall talent) to benefit ſuch as are, or would be Practitioners in that commendable Art of FAIRE WRITING; were the onely motiues that induced mee to manifeſt vnto the view of the world, theſe few lines heereafter en<g ref="char:EOLhyphen"/>ſuing. Wherein before I enter into diſcourſe concerning the Art it ſelfe, giue me leaue curſorily to demonſtrate the manifold abuſes which are of<g ref="char:EOLhyphen"/>fered vnto the <hi>Pen</hi> by a number of lame Pen-men; who as they doe in<g ref="char:EOLhyphen"/>trude themſelues into the ſociety of Artiſts, and vſurping the name of <hi>Pen-men,</hi> ſeeke <hi>detinere Artem in ignorantia:</hi> ſo by their audacious brags and lying promiſes, they doe ſhadow and obſcure both the excellency of the <hi>Pen,</hi> and the dignity of thoſe that are indeed true Profeſſors thereof.</p>
+            <pb facs="tcp:173752:6"/>
+            <p> But I purpoſe not to heape vp all the abuſes which they may be concei<g ref="char:EOLhyphen"/>ued to offer vnto the <hi>Pen;</hi> for that were to loſe my ſelfe in an endleſſe diſ<g ref="char:EOLhyphen"/>courſe: I will only poynt at a few which I hold to be the chiefeſt and doe belong principally to matter of <hi>Teaching:</hi> And thoſe I finde to be foure.</p>
+            <p>Firſt, you ſhall obſerue that theſe Botchers, (for they deſerue no better <label type="milestone">
+                  <seg type="milestoneunit">Abuſe. </seg>1</label> title) are for the greateſt part of them of no ſtanding, nor euer haue had any ground in the Art, onely haue a certaine confuſed kinde of writing, voide either of <hi>Life, Dexterity,</hi> or <hi>Art</hi> it ſelfe; and yet notwithſtanding they profeſſe, and in their Bills (clapt vpon euery poſt) promiſe to per<g ref="char:EOLhyphen"/>forme as much as any whoſoeuer. For let any man obſerue their Ly-bills, (for ſo I may very well tearme them) and hee ſhall ſee how liberall they are in their promiſes this way, profeſſing to teach any one (not ſtanding vpon the capacity of the pupill) to write a ſufficient hand in a month, and ſome of them doe ſay, in a fortnight. Yet, if they did but ſay ſo it were tollerable, when as they themſelues, (I dare bee bold to affirme it) may goe ſo long to Schoole to learne a little <hi>a,</hi> aad yet not attaine to the true touch thereof, being fitter for other Mechanicall occupations (wherein ſome of them, to my knowledge, haue beene brought vp) then for the Profeſſion of this ſo curious an Art. Whoſe <hi>Writings</hi> (if they come to the touchſtone of Art, which cannot erre, and to the iudgement of Artiſts, who ſeldome are deceiued) will proue lame and ſchoole-boy-like. And although in ſome of their doings, there may ſeeme in the eyes of the igno<g ref="char:EOLhyphen"/>rant)
+<pb facs="tcp:173752:6"/> to be a ſhew of Art: howbeit <hi>tantum abſunt à perfectione, quantum ab ignauia animi magnitudo,</hi> They come as farre ſhort of thoſe that haue the leaſt skill, as they doe of Perfection.</p>
+            <p>Next, whereas we that are Pen-men hold this as a Maxime in the Art of <label type="milestone">
+                  <seg type="milestoneunit">Abuſe. </seg>2</label> writing, To yeeld a reaſod of euery thing we doe, (ſince <hi>plus apud nos vera ratio valet, quam vulgi opinio)</hi> why, theſe ignorant Profeſſors are ſo rea<g ref="char:EOLhyphen"/>ſonleſſe in all their workes, both of Writing and Teaching, that it is im<g ref="char:EOLhyphen"/>poſſible for thoſe whom they teach, or that imitate their doings, to reape any benefit by them, Reaſon being a ſecond Schoolemaiſter to bring a man to knowledge in any Art hee deſires to practiſe. And certainely (ex<g ref="char:EOLhyphen"/>perience tells me) that in the matter of teaching, nothing is more auailea<g ref="char:EOLhyphen"/>ble to a learner, then the demonſtration of Reaſon. So that heerein ap<g ref="char:EOLhyphen"/>peares the ſecond abuſe, in that theſe men, being not able to yeeld a rea<g ref="char:EOLhyphen"/>ſon of that they profeſſe, doe neuertheleſſe (Parrat-like) boaſt of their skill, and in their papers giue out vaunting ſpeeches, as if ſo be they were the onely fellowes that would (as we ſay) beare away the bell: whereas if a man take a view of any of their workes or writings, he ſhall find therein no appearance either of Truth, Reaſon or Art: but on the contrary, ſuch weake ſtuffe as he would rather imagine it to be the ſcratching of a Hen, then the worke of a profeſt Pen-man.</p>
+            <p>Thirdly, (becauſe I would bee briefe) by theſe their large (yet lying <label type="milestone">
+                  <seg type="milestoneunit">Abuſe. </seg>3</label> promiſes) they blind the eyes of the common ſort, who are rather affected
+<pb facs="tcp:173752:7"/> with nonelties and ſtrange deuiſes, though they appeare in nothing but vaine oſtentations, then with the ſoundneſſe of iudgement and exquiſite<g ref="char:EOLhyphen"/>neſſe of skill, wherewith Artiſts are indued. For is it not a common thing amongſt them, as well in their reſidence about this famous City (which God knowes ſwarmes with them) as in their curriculer Progreſſes ouer all places in this kingdome; to carry about them, yea and to ſet in open view the writings and Tables of other men, and affirme they are their owne? I appeale to none but to my owne experience heerein; howbeit I am per<g ref="char:EOLhyphen"/>ſwaded diuers others (and which I know to) will concurre with me in this truth. And what is this, thinke you, but <hi>deceptio viſus,</hi> a blinding of the world with ſhewes of what they are not?</p>
+            <p>Laſtly, they doe alſo hinder the commodity of thoſe that goe as far be<g ref="char:EOLhyphen"/>yond <label type="milestone">
+                  <seg type="milestoneunit">Abuſe. </seg>4</label> them in excellency of writing, as the Sunne exceeds the Moone, and that two wayes.</p>
+            <p>Firſt, by their baſe and ignominious carriage of themſelues in their ac<g ref="char:EOLhyphen"/>cuſtomary coſening, wherby men take occaſion to conceiue ſo ill of others of the ſame Profeſſion, that it is almoſt impoſſible for any one (do or mean he neuer ſo well,) to haue entertainment where they haue beene before.</p>
+            <p>And ſecondly by the multitude of them, which is ſo great that a man can go into no corner of this City, but he ſhal ſee and heare of a world of ſquirting Teachers, not one of them almoſt worthy to carry a Pen-mans Inck-horne after him, much leſſe to beare the name of a good Pen-man.</p>
+            <pb facs="tcp:173752:7"/>
+            <p> Diuers other abuſes there are which theſe men offer vnto the excellency of the <hi>Pen</hi> and <hi>Pen-men:</hi> But leſt I ſhould ſeem prolixe in ſo ſlight an argu<g ref="char:EOLhyphen"/>ment, I will here leaue them to the cenſure of the skilfull, and to thoſe that to their coſt haue made tryall of them. Foraſmuch as my intent is not ſo much to detect the follie of thoſe vnworthy Profeſſors (which is palpable enough to euery one) as to entreat of the Art it ſelfe, reducing all that I en<g ref="char:EOLhyphen"/>tend to ſpeake in commendation thereof, vnto theſe three heads<g ref="char:punc">▪</g>
+            </p>
+            <list>
+               <item>1 <hi>To the Antiquitie</hi>
+                  <list>
+                     <item>thereof.</item>
+                  </list>
+               </item>
+               <item>2 <hi>To the Excellencie</hi>
+               </item>
+               <item>3 <hi>To the Diuerſitie</hi>
+               </item>
+            </list>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Part. </seg>1</label> Firſt, for the <hi>Antiquitie</hi> of it. Some affirme that the vſe of this Art was found out in the very infancie of the world: and that <hi>Enoch</hi> the ſeauenth <note place="margin">
+                  <hi>Ioſeph. lib.</hi> 1 <hi>de Antiquit.</hi>
+               </note> from <hi>Adam</hi> had skill therein: For <hi>Ioſephus</hi> credibly reports, that one of the Prophecies which <hi>Enoch</hi> wrote on pillers of ſtone, remained euen in his time; or at leaſt ſome ruine thereof. But others doe aſcribe thoſe pillars to <hi>Seth</hi> who liued before <hi>Enoch.</hi> Howſoeuer, if it were but as ancient as the Law, it carries with it age enough.</p>
+            <p>As for the Art of <hi>Prin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing,</hi> which came vp but yeſterday (in compariſon) and is now in much requeſt, that can no way blemiſh the Art of <hi>Writing,</hi> foraſmuch as <hi>Writing</hi> is the Preſident by which <hi>Printing</hi> is effected, and therefore the more worthy. For as wee ſay in Arithmeticke, <hi>Out of the</hi>
+               <pb facs="tcp:173752:8"/> 
+               <hi>greater the leſſer is deducted:</hi> So that, that whence the deduction is made, is greater then the deduction it ſelfe.</p>
+            <p>I ſhall not neede to argue much vpon the <hi>Antiquitie</hi> of this Art, in re<g ref="char:EOLhyphen"/>gard of the vniuerſall knowledge thereof. What worthy and notable acts were heretofore done by any, either Diuine, Morall, Legall or Martiall, but were reſerued to after-ages by the meanes of <hi>Writing?</hi> And I wonder how we ſhould euer haue attained to any kind of learning, had we not had the ſcrolls of our learned fore-fathers to peruſe and looke into as alſo the holy Scriptures, <hi>In quibus ſunt omnes theſaurt ſapientiae ac ſcientiae reconditi?</hi>
+            </p>
+            <p>The next thing to be entreated of, is the <hi>Excellency</hi> of the Art of <hi>Writing,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Part. </seg>2</label> which doth euidently appeare in theſe two things:</p>
+            <p>
+               <label>1 <hi>Deſiderio.</hi>
+               </label> Firſt, in the earneſt deſire that all men for the moſt part haue to attaine vnto it: for thoſe things which are rare and delectable, are ſought for and purſued of all men, that's a rule in Nature: Now the Art of <hi>Writing</hi> is a moſt excellent and delectable Art, and therefore of all men much deſired.</p>
+            <p>
+               <label>2 <hi>Neceſſitate</hi>
+               </label> Secondly, the Excellency appeares in the Neceſſitie thereof: for it is neceſſary for all (you know) to write; and thoſe that cannot, finde what a multitude of inconueniences doe come vpon them for the want of it. And herein (by the way) ſuffer me not to giue conniuence to that vngrounded <note place="margin">An Anſwer to a common Obiection.</note> opinion of many, who affirme <hi>Writing</hi> to bee altogether vnneceſſary for women. If by it any foule buſineſſes are contracted, and thereby much hurt effected; Is this to be laid vpon the Art it ſelfe? Or is not rather the ill
+<pb facs="tcp:173752:8"/> diſpoſition of thoſe to be charged herewith, who make it the inſtrument, whereby they bring to paſſe euill actions? For not the vſe but the abuſe of a thing is it which makes it odious. If it were otherwiſe, why then foule imputations may be laid vpon the beſt vertues, which of themſelues are immaculate.</p>
+            <p>To bee briefe, the Art of <hi>Writing</hi> is ſo excellent, and of ſuch neceſſary vſe, that none ought to be without ſome knowledge therein, ſince the ex<g ref="char:EOLhyphen"/>cellency of no Art without it can be made knowne or manifeſted. And if any Art be commendable in a woman, (I ſpeake not of their ordinary workes wrought with the needle, wherein they excell) it is this of <hi>Writing;</hi> whereby they, commonly hauing not the beſt memories (eſpecially con<g ref="char:EOLhyphen"/>cerning matters of moment) may commit many worthy and excellent things to Writing, which may occaſionally miniſter vnto them matter of much ſolace.</p>
+            <p>Hereby alſo, the ſecrets that are and ought to be, betweene Man and Wife, Friend and Friend &amp;c. in either of their abſences may bee confined to their owne priuacy, which (amongſt other things) is not the meaneſt dignity.</p>
+            <p>Laſtly, the practiſe of this Art is ſo neceſſary for women, and conſequent<g ref="char:EOLhyphen"/>ly ſo excellent, that no woman ſuruiuing her husband, and who hath an eſtate left her, ought to be without the vſe thereof, at leaſt in ſome reaſo<g ref="char:EOLhyphen"/>nable manner: For thereby ſhee comes to a certainty of her eſtate, with<g ref="char:EOLhyphen"/>out
+<pb facs="tcp:173752:9"/> truſting to the reports of ſuch as are vſually imployed to looke into the ſame: whereas otherwiſe for want of it, ſhe is ſubiect to the manifold deceits now vſed in the world, and by that meanes plungeth her ſelfe into a multitude of inconueniences.</p>
+            <p>Wherefore their opinion who would barre women from the vſe of this excellent facultie of <hi>Writing,</hi> is vtterly lame, and cannot by force of argu<g ref="char:EOLhyphen"/>ment be maintained.</p>
+            <p>And although the <hi>Excellencie</hi> of this Art (to ſpeake of the curioſitie thereof) be ſomewhat ſhadowed by the dulneſſe of ſome Mechanicall ſpi<g ref="char:EOLhyphen"/>rits, who ſeldome haue skill in any thing out of their owne element, that thinke <hi>Writing</hi> to be onely a hand-labour, and ſo they can write to keepe a dirty ſhop-booke, they care for no more; neuer eſteeming the commenda<g ref="char:EOLhyphen"/>ble manner of faire and orderly <hi>Writing,</hi> which ought in all buſineſſe to be obſerued, as well in keeping of Bookes for Merchants and others, as in all kinde of Engroſments, appertaining to the Law, &amp;c: Yet notwithſtanding the ſplendor &amp; grace of <hi>writing</hi> ſhines moſt excellently in the ſcrols of skil<g ref="char:EOLhyphen"/>full Artiſts, as in the writing of ſome may appeare to the<g ref="char:cmbAbbrStroke">̄</g> that haue inſight.</p>
+            <p>And what ſhould I ſay of the Excellency of this Art? Is it not one of the hands by which not only this, but al other common-wealths are vpholden? The key which opens a paſſage to the deſcrying and finding out of innu<g ref="char:EOLhyphen"/>merable treaſures? The handmaid to memory? The Regiſter and Recorder of all Arts? And the very mouth whereby a man familiarly conferreth with
+<pb facs="tcp:173752:9"/> his friend, though the diſtance of thouſands of miles be betwixt them?</p>
+            <p>Infinite other things might be ſpoken concerning the Excellency of this Art of <hi>Writing;</hi> and where I faile in the ſetting forth thereof, aſſiſt me with your manifold imaginations.</p>
+            <p>The third and laſt thing to be diſcuſſed of in commendation of this Art, <label type="milestone">
+                  <seg type="milestoneunit">Part. </seg>3</label> is the Diuerſitie thereof. I meane the diuers kindes of <hi>hands</hi> which are now vſed among vs. For although they all goe vnder the name of writing; yet they are to be diſtinguiſhed according to the diuerſitie of them. Howbeit my purpoſe is not to clog my diſcourſe with an enumeration of euery idle hand that may be written: for that were abſurd, and out of the element of a <hi>Pen-man.</hi> I will only entreat of thoſe which are the principall; and wher<g ref="char:EOLhyphen"/>in the moſt Art, the greateſt curioſitie, and the rareſt dexteritie of the Ar<g ref="char:EOLhyphen"/>tiſt is to be manifeſted: and they are theſe which follow, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1 <hi>Secretary.</hi>
+               </item>
+               <item>2 <hi>Baſtard-Secretary,</hi> or <hi>Text.</hi>
+               </item>
+               <item>3 <hi>Roman.</hi>
+               </item>
+               <item>4 <hi>Italian.</hi>
+               </item>
+               <item>5 <hi>Court.</hi>
+               </item>
+               <item>6 <hi>Chancery.</hi>
+               </item>
+            </list>
+            <p>Of each of which I will briefly ſpeake ſomewhat, onely by way of di<g ref="char:EOLhyphen"/>ſtinction,
+<pb facs="tcp:173752:10"/> in regard I would not willingly weary the Reader with ſuper<g ref="char:EOLhyphen"/>fluous circumſtances, or detaine him long from That which followeth.</p>
+            <p>
+               <label>1 <hi>Secretary.</hi>
+               </label> For the firſt, <hi>viz:</hi> the <hi>Secretary,</hi> which is ſo tearmed (as I conceiue) partly becauſe it is the Secretaries common hand; and partly alſo, becauſe it is the onely vſuall hand of England, for diſpatching of all manner of bu<g ref="char:EOLhyphen"/>neſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es for the moſt part, whatſoeuer.</p>
+            <p>I might adde hereunto the ſuper-excellency of this hand, in reſpect of any other hand; for that the very denomination thereof, imports ſome things in it that are not eaſily to be found out, And true it is, that who<g ref="char:EOLhyphen"/>ſoeuer doth practiſe it (according to the true nature of it) ſhall perceiue <note place="margin">Secretarius à ſecretis.</note> therein many ſecret and ſubtill paſſages of the hand, which few, but thoſe that haue beene well grounded therein by a true Artiſt, are able to com<g ref="char:EOLhyphen"/>prehend: but I affect breuity.</p>
+            <p>To ſpeake of the kindes of <hi>Secretary,</hi> is (in theſe dayes) no eaſie matter: for ſome haue deuiſed many, and thoſe ſo ſtrange and diſguiſed; that there is hardly any true ſtraine of a right Secretary in them. For mine owne part, I make diſtinction betwixt the <hi>Sett, Facill,</hi> and <hi>Faſt hands,</hi> of which three I ſhall (God willing) by and by propoſe ſome few examples.</p>
+            <p>
+               <label>2 <hi>Baſtard ſe<g ref="char:EOLhyphen"/>cretary</hi>
+               </label> The next is <hi>Baſtard-Secretary,</hi> and ſo named by the beſt, becauſe it is gotten of the Secretary, as thoſe that haue any skill may perceiue. This is a Hand not ſo vſuall as the former; yet of great validity, and for diuers purpoſes exceeding gracefull; as for Engroſſements, Epitaphs for Tombes,
+<pb facs="tcp:173752:10"/> Titles of Bookes, and many other vſes, which would bee too tedious for me heere to recite.</p>
+            <p>
+               <label>3 <hi>Roman.</hi>
+               </label> The third is <hi>Roman,</hi> which hath his denomination from the place where (it ſeemes) it was firſt written, viz: <hi>Rome.</hi> A hand of great account, and of much vſe in this Realme, eſpecially in the Vniuerſities: and it is conceiued to be the eaſieſt hand that is written with Pen, and to be taught in the ſhorteſt time: Therefore it is vſually taught to women, for as much as they (hauing not the patience to take any great paines, beſides phan<g ref="char:EOLhyphen"/>taſticall and humorſome) muſt be taught that which they may inſtantly learne? otherwiſe they are vncertaine of their proceedings, becauſe their mindes are (vpon light occaſion) eaſily drawne from the firſt reſolution.</p>
+            <p>
+               <label>4 <hi>Italian.</hi>
+               </label> The fourth is <hi>Italian,</hi> a <hi>hand</hi> in nature not much different from <hi>Roman,</hi> but in manner and forme, of much incongruity thereunto. This is a <hi>hand</hi> which of late is growne very vſuall, and is much affected by diuers: for in<g ref="char:EOLhyphen"/>deed, it is a moſt excellent and curious <hi>hand,</hi> and to bee written with ſin<g ref="char:EOLhyphen"/>gular command of hand; elſe it will appeare but very ragged and vile; and if the Pen be taken off in coniunction of the letters, it is neither ap<g ref="char:EOLhyphen"/>proueable, nor Pen<g ref="char:punc">▪</g>man-like, but meere botching which is deteſtable.</p>
+            <p>
+               <label>5 <hi>Court.</hi>
+               </label> The fiſt is <hi>Court hand;</hi> ſo called, for that it is of great vſe in thoſe two famous Courts of the <hi>Kings Bench</hi> and <hi>Common Pleas.</hi> It is a <hi>hand</hi> ſome<g ref="char:EOLhyphen"/>what difficult to write well, and hee that continually writes it, may hap<g ref="char:EOLhyphen"/>ly come to perfection in that; but for other hands (if hee could write ne<g ref="char:EOLhyphen"/>uer
+<pb facs="tcp:173752:11"/> ſo many) let him neuer looke to write any of them well: for it is able to marre them all. I am not reaſonleſſe in this opinion, but able (vnto any that pleaſe) to produce the cauſe.</p>
+            <p>
+               <label>6 <hi>Chancery.</hi>
+               </label> The laſt is <hi>Chancery,</hi> which euery man knowes to be written no where but in the <hi>High Court of Chancery,</hi> and in other Offices which haue refe<g ref="char:EOLhyphen"/>rence thereunto. I am of opinion, that this hand being well written, is far more gracefull then the <hi>Court,</hi> and equally difficult. It hath a kinde of mixture of the <hi>Court</hi> and <hi>Baſtard-Secretary</hi> in it, which any man of iudge<g ref="char:EOLhyphen"/>ment may eaſily perceiue.</p>
+            <p>There are two kindes hereof, the <hi>Sett</hi> and <hi>Faſt;</hi> the difference between them is not little, as they that are Clerks well know.</p>
+            <p>Thus much, or rather thus little, I thought good to deliuer, touching the <hi>Antiquitie, Excellencie,</hi> and <hi>Diuerſitie</hi> of the Art of <hi>Writing.</hi>
+            </p>
+            <p>Now here ſhall follow certaine pecces and Examples of the ſixe ſeueral heads before mentioned; wherein I haue endeauored to fit my ſelfe with extraordinary matter for coppies; holding it an abſurd thing in a good Pen-man to make choice of ſuch fuſtian ſtuffe, as many doe, onely to ſet out their Coppies, and make the writing to ſeeme gracefull to the eye. Alſo I haue laboured to be ſo perſpicuous in the nature of euery hand, as that the meaneſt may imitate me, and reape ſome benefit by me.</p>
+         </div>
+         <div type="penmanship_samples">
+            <pb facs="tcp:173752:11"/>
+            <p>
+               <figure>
+                  <head>5</head>
+               </figure>
+               <pb facs="tcp:173752:12"/>
+               <pb facs="tcp:173752:12"/>
+               <figure>
+                  <head>8</head>
+               </figure>
+               <pb facs="tcp:173752:13"/>
+               <pb facs="tcp:173752:13"/>
+               <figure>
+                  <head>9</head>
+               </figure>
+               <pb facs="tcp:173752:14"/>
+               <pb facs="tcp:173752:14"/>
+               <figure>
+                  <head>10</head>
+               </figure>
+               <pb facs="tcp:173752:15"/>
+               <pb facs="tcp:173752:15"/>
+               <figure>
+                  <head>11</head>
+               </figure>
+               <pb facs="tcp:173752:16"/>
+               <pb facs="tcp:173752:16"/>
+               <figure/>
+               <pb facs="tcp:173752:17"/>
+               <pb facs="tcp:173752:17"/>
+               <figure/>
+               <pb facs="tcp:173752:18"/>
+               <pb facs="tcp:173752:18"/>
+               <figure>
+                  <head>14</head>
+               </figure>
+               <pb facs="tcp:173752:19"/>
+               <pb facs="tcp:173752:19"/>
+               <figure>
+                  <head>15</head>
+               </figure>
+               <pb facs="tcp:173752:20"/>
+               <pb facs="tcp:173752:20"/>
+               <figure/>
+               <pb facs="tcp:173752:21"/>
+               <pb facs="tcp:173752:21"/>
+               <figure>
+                  <head>18</head>
+               </figure>
+               <pb facs="tcp:173752:22"/>
+               <pb facs="tcp:173752:22"/>
+               <figure>
+                  <head>22</head>
+               </figure>
+               <pb facs="tcp:173752:23"/>
+               <pb facs="tcp:173752:23"/>
+               <figure>
+                  <head>23</head>
+               </figure>
+               <pb facs="tcp:173752:24"/>
+               <pb facs="tcp:173752:24"/>
+               <figure>
+                  <head>24</head>
+               </figure>
+               <pb facs="tcp:173752:25"/>
+               <pb facs="tcp:173752:25"/>
+               <figure/>
+               <pb facs="tcp:173752:26"/>
+               <pb facs="tcp:173752:26"/>
+               <figure>
+                  <head>26</head>
+               </figure>
+               <pb facs="tcp:173752:27"/>
+               <pb facs="tcp:173752:27"/>
+               <figure>
+                  <head>27</head>
+               </figure>
+               <pb facs="tcp:173752:28"/>
+               <pb facs="tcp:173752:28"/>
+               <figure>
+                  <head>28</head>
+               </figure>
+               <pb facs="tcp:173752:29"/>
+            </p>
+         </div>
+         <div type="continuation_of_text">
+            <pb facs="tcp:173752:29"/>
+            <p> Thus from the gate or entrance, I haue brought you into the houſe; where you haue ſeen ſundry ornaments and peeces of Art: and now (if you be not weary) goe with me into one roome more, and there take a view of the implements and tooles, with which you muſt worke, if you meane to proue a Pen-man; and learne how you are to vſe and handle them. But before we enter, ſteppe aſide with mee, and I will giue you notice of cer<g ref="char:EOLhyphen"/>taine obſeruations, which are neceſſary to be knowne of euery one that will practiſe this Art.</p>
+            <div type="part">
+               <head>Obſeruations for writing.</head>
+               <p>EVery one that intends eyther to be a Teacher of others, or a Practi<g ref="char:EOLhyphen"/>tioner for himſelfe; ought to know that in the Art of Letters, or Writing, three things are to be obſerued, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>1 <hi>Ratio.</hi>
+                  </item>
+                  <item>2 <hi>Modus.</hi>
+                  </item>
+                  <item>3 <hi>Species.</hi>
+                  </item>
+               </list>
+               <p>
+                  <note place="margin">Generally.</note> The former wherof, which is Reaſon, hath reference to the vnderſtan<g ref="char:EOLhyphen"/>ding, and doth moſt of all concerne the ſpeculatiue part of <hi>Writing.</hi>
+               </p>
+               <p>The two latter, <hi>viz.</hi> the <hi>manner</hi> and <hi>ſhape</hi> (which of euery letter
+<pb facs="tcp:173752:30"/> throughout the Alphabet is to be obſerued) doth conſiſt in the carriage of the <hi>hand;</hi> and theſe are the practique parts of <hi>Writing.</hi>
+               </p>
+               <p>
+                  <note place="margin">
+                     <hi>Particularly.</hi>
+                  </note> 
+                  <label>1 <hi>Ratio.</hi>
+                  </label> Firſt, the <hi>Reaſon</hi> of euery letter muſt be found out; as why ſuch a letter beeing made thus and thus, ſeemes more gracefull then beeing made ſo and ſo. Likewiſe, as for euery letter, and the leaſt touch with the Pen, a reaſon muſt be giuen: So it is in the coniunction, knitting or ioyning to<g ref="char:EOLhyphen"/>gether of the letters; Why the Pen muſt heere be taken off, and why there not taken off? why the nature of this letter will admit the taking off of the Pen; and why the nature of that letter doth require the contrary. Theſe things muſt be reſolued to the learner, by Reaſon; elſe how ſhall he vnderſtand to write well?</p>
+               <p>
+                  <label>2 <hi>Modus.</hi>
+                  </label> Next, the <hi>manner</hi> of making euery letter muſt bee knowne too. For if a Scholler be taught to frame his letters after an ill, corrupt and contrary way: It cannot be that he ſhould euer write well. And although per<g ref="char:EOLhyphen"/>chance ſome doe write ſufficient and ſeruiceable hands, that neuer were taught the true way of framing their Caracters: Yet notwithſtanding what they do, they (as we ſay) do by roate, not vnderſtanding, or con<g ref="char:EOLhyphen"/>ceiuing how they write. For I dare vndertake, that ſuch as haue not bin rightly grounded heerein, are neuer able to know or iudge of the good<g ref="char:EOLhyphen"/>nes or badnes of a letter. Therefore it were to bee wiſhed, that men would refraine from theſe Botchers that ſpoyle ſo many &amp; bring vp ſuch a multitude of Scriblers, not fit for any mans imployment: and that they
+<pb facs="tcp:173752:30"/> would (not ſtanding vpon the pay, as many ignorant perſons doe) put their youth to ſuch as are able to teach, and are knowne to be good Pen-men.</p>
+               <p>
+                  <label>3 Species.</label> Laſtly, as the <hi>reaſon</hi> and the <hi>manner</hi> of euery Letter is to be obſerued: ſo the <hi>ſhape</hi> (which giueth <hi>life</hi> and <hi>ſpirit</hi> to writing) muſt be knowne alſo: for therein the very ſubſtance of <hi>Writing</hi> conſiſteth.</p>
+               <p>Herein a man ought to bee very wary and circumſpect, concerning the carriage of his Pen: that is, that hee doe not preſſe vpon that part of the letter which requires a fauourable touch; nor be ſparing in that part which requires the contrary: for in either the <hi>ſpirit</hi> of the letter is dulled and made blockiſh, ſo that the <hi>ſhape</hi> cannot then be good.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>It ſhall not be amiſſe for the diligent Practitioner, more ſpecially to obſerue theſe few briefe Rules concerning Writing,</hi> viz.</head>
+               <list>
+                  <item>1 FIrſt, to ſize his <hi>Writing,</hi> that is, to make the depth and fulneſſe pro<g ref="char:EOLhyphen"/>portionable.</item>
+                  <item>2 Then to obſerue the <hi>whites,</hi> for that's a maine matter.</item>
+                  <item>3 Laſtly, to keepe an equall diſtance, as well betweene letter and letter, as betweene word and word.</item>
+               </list>
+               <p>Theſe three being the chiefeſt things wherein the grace of <hi>writing</hi> con<g ref="char:EOLhyphen"/>ſiſteth.</p>
+               <pb facs="tcp:173752:31"/>
+               <p> In the next place I hold it neceſſary to ſet downe certaine rules for the making and holding of the <hi>Pen,</hi> with other things therunto appertaining.</p>
+            </div>
+            <div type="part">
+               <head>Obſeruations or rules for the making of the Pen.</head>
+               <p>AFter you haue gotten you a good Pen-knife well edg'd and ſmooth'd vpon a hoane, and good ſecond quils, either of Gooſe or Rauen, ſcra<g ref="char:EOLhyphen"/>ped with the backe of your knife, begin to make your Pen thus:</p>
+               <p n="1">1 Firſt, holding your quill the right ſide vpwards, cut off about the third part of it flat along to the end.</p>
+               <p n="2">2 And turning it on the backe ſide, cut off the very end of it aſloape; which being done, it will be forked.</p>
+               <p n="3">3 Then, holding it ſtill on the backe, make a little cut in the very midſt of the quill.</p>
+               <p n="4">4 When you haue done ſo, take the end of your knife if it haue a pegg, or elſe another quill, and make a ſlit vp ſuddenly, euen in the cut you gaue before.</p>
+               <p n="5">5 Which being done turne your quill on the right ſide againe, and be<g ref="char:EOLhyphen"/>gin to cut a little thought aboue the ſlit, on that ſide which is next your left hand, and ſo continue cutting by degrees, till you thinke you haue ſuf<g ref="char:EOLhyphen"/>ficiently cut that ſide. <note place="margin">A Caueat.</note> But herein you muſt bee very wary you cut not off too much of the ſlit; for then your pen will be too hard, and if you leaue too much alſo, it will be ouer ſoft.</p>
+               <p n="6">
+                  <pb facs="tcp:173752:31"/> 6 Then euen againſt the place you beganne to cut the firſt ſide, cut the <note place="margin">Note that if your quill (as many haue) haue teeth, you are to pare it on the back thinly, to take the<g ref="char:cmbAbbrStroke">̄</g> away</note> other likewiſe, till you haue made them both of an equall thinneſſe: and then trying it by lifting vp the ſlit vpon the naile of your thumbe, you ſhall ſee whether it be too ſoft or too hard: if eyther, bring it to a meane by ad<g ref="char:EOLhyphen"/>ding more ſlit to it, if you ſee it be too hard; or by taking ſome away, if you perceiue it to bee too ſoft.</p>
+               <p>Laſtly, herein lies the difficulty, <hi>viz.</hi> in the nibbing of the Pen: wherein I obſerue this rule, that placing it on the naile of my thumbe, or middle fin<g ref="char:EOLhyphen"/>ger, <note place="margin">Obſerue that this nibbing of the Pen muſt be done at once though it ſeeme two ſeuerall cuts, otherwiſe it will not write currantly.</note> I hold my knife ſomewhat ſloaping, and cut the end of the nibbe, not quite off, but before my knife come off, I turne him downe-right and ſo cut the nibbe cleane away, on both ſides alike; contrary to that old vulgar rule, <hi>Dextra pars pennae, &amp;c.</hi> Now if my pen be to write full, I cut off ſo much the more of the nibbe; if ſmall, ſo much the leſſe.</p>
+            </div>
+            <div type="part">
+               <head>Obſeruations for the holding of the Pen.</head>
+               <p n="1">1 HOld your Pen betweene your thumbe, your fore-finger, and your middle-finger: <hi>viz.</hi> with the top of your thumbe, the bottome or lower part of your fore-finger, and the toppe or vpper part of your middle finger.</p>
+               <p n="2">2 And let your other two fingers ioyne to the reſt a little thought with<g ref="char:EOLhyphen"/>in them; ſuffering none of your fingers with which you hold the Penne, to touch paper: for that is the proper office of the fourth and little fingers, by
+<pb facs="tcp:173752:32"/> which the ſtrength of the others is maintained.</p>
+               <p n="3">3 Laſtly, for the right vſage of the Pen, when you can hold it; you ſhall obſerue, that it ought to bee held directly vpon the full: for that is moſt proper, being that the nibbe of the Pen muſt be cut euen, otherwiſe it is ſubiect to ſpatter. Howbeit, I denie not, but in the fetching of any com<g ref="char:EOLhyphen"/>paſſe, it muſt be held a little inclining to the left ſide: for ſo the Pen will giue full where it ſhould, and ſmall alſo where it is required.</p>
+               <p>
+                  <note place="margin">A Caueat.</note> Note, that the Pen muſt be held very gently in the hand, without gri<g ref="char:EOLhyphen"/>ping, becauſe of two inconueniences which come thereby.</p>
+               <p n="1">1 The one is, that the command of hand (which otherwiſe by the eaſie holding thereof is to be attained) is hereby vtterly loſt.</p>
+               <p n="2">2 The other is, that by this griping, or hard holding of the Pen, a man is kept from a ſpeedy diſpatch of that he goes about to write: both which are maine enemies to Clerke-like writing.</p>
+            </div>
+            <div type="part">
+               <head>M. B. his priuate opinion concerning Pen-manſhip.</head>
+               <p n="1">1 FIrſt, it is a moſt abſurd and hatefull qualitie, to vſe any manner of botching in the Art of <hi>Writing;</hi> yea, though it be in a letter of the greateſt vncertainty.</p>
+               <p n="2">2 Againe, I am of opinion, that although in the writing of ſome <hi>Hands,</hi>
+                  <pb facs="tcp:173752:32"/> (as of the <hi>Sett Secretary</hi> and ſome other) it be now and then tollerable to take off the Pen in coniunction of the letters, for the more formall writing thereof: yet that in the <hi>Facill,</hi> but eſpecially in the <hi>Faſt Secretary,</hi> it is ſo iniurious to the perfection of Clerke-like writing, that I cannot free him that vſeth it, from the imputation of a meere Botcher.</p>
+               <p n="3">3 The like opinion doe I retaine of thoſe, who muſt write euerything that is to be performed in any reaſonable faſhion, and with credit, with or by a <hi>line:</hi> for therein they ſhew themſelues rather Carpenters then Wri<g ref="char:EOLhyphen"/>ters, and cannot (in the iudgement of Artiſts) bee rightly tearmed good <hi>Pen-men.</hi>
+               </p>
+               <p n="4">4 Alſo (in my iudgement) he cannot be reputed a good <hi>Pen-man</hi> that is not able vpon an inſtant, with any <hi>Pen, Inke,</hi> or <hi>Paper,</hi> and in the preſence of whomſoeuer, to manifeſt ſome skill: Being that the rare &amp; abſolute qua<g ref="char:EOLhyphen"/>lity of the Pen, conſiſteth not in the painting, pricking forth, and tedious writing of ſixe lines priuately in a mans Study, with the beſt implements: but a ſweet command of hand, and a certaine conceiued preſumption.</p>
+               <p n="5">5 Laſtly, to vſe any ſtrange, borrowed, or inforc'd tricks and knots, in or about writing, other then with the celerity of the hand are to be per<g ref="char:EOLhyphen"/>formed, is rather to ſet an inglorious gloſſe vpon a ſimple peece of worke, then to giue a comely luſtre to a perfect patterne; they being as vnnaturall to <hi>Writing</hi> as a ſurfet is to a temperate mans body.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
